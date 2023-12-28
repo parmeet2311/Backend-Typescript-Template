@@ -1,0 +1,283 @@
+[{
+  "_id": {
+    "$oid": "6569c303e756cc7cba33df6f"
+  },
+  "walletAddress": "0x9B88c6cc678478cfd70B00F979543c4CF2922043",
+  "referralAddress": null,
+  "adminAddress": "0x9B88c6cc678478cfd70B00F979543c4CF2922043",
+  "directIncome": 4,
+  "totalReferrals": 4,
+  "totalstakes": 6,
+  "totalStakedAmount": 3000,
+  "dateRegistered": "01/12/2023",
+  "userId": 1,
+  "__v": 30,
+  "stakes": [
+    {
+      "stakingIndex": 5,
+      "amount": 500,
+      "date": "01/12/2023",
+      "_id": {
+        "$oid": "6569d22041ca320135875e30"
+      }
+    },
+    {
+      "stakingIndex": 6,
+      "amount": 500,
+      "date": "01/12/2023",
+      "_id": {
+        "$oid": "6569d26141ca320135875e36"
+      }
+    }
+  ],
+  "MaxRoi": 2,
+  "withrawalAmount": 0,
+  "plans": [
+    {
+      "planIndex": 1,
+      "totalBusiness": 2500,
+      "Daily": 3,
+      "days": 60,
+      "activationDate": "11/05/2023",
+      "active": false,
+      "_id": {
+        "$oid": "65770d839127551be0bde735"
+      }
+    },
+    {
+      "planIndex": 2,
+      "totalBusiness": 6000,
+      "Daily": 5,
+      "days": 90,
+      "activationDate": "05/12/2023",
+      "active": true,
+      "_id": {
+        "$oid": "65770d839127551be0bde736"
+      }
+    },
+    {
+      "planIndex": 3,
+      "totalBusiness": 12000,
+      "Daily": 8,
+      "days": 180,
+      "activationDate": "11/12/2023",
+      "active": true,
+      "_id": {
+        "$oid": "65770e489127551be0bdeaa2"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6569c38ce756cc7cba33df74"
+  },
+  "walletAddress": "0xFfe7e55801a997739cE58e302D5e2DeE3b9Bd333",
+  "referralAddress": "0x9B88c6cc678478cfd70B00F979543c4CF2922043",
+  "directIncome": 369,
+  "totalReferrals": 1,
+  "totalstakes": 1,
+  "totalStakedAmount": 500,
+  "dateRegistered": "01/12/2023",
+  "userId": 2,
+  "__v": 4,
+  "stakes": [
+    {
+      "stakingIndex": 1,
+      "amount": 500,
+      "date": "08/12/2023",
+      "_id": {
+        "$oid": "6572a0423a80832aa2882c92"
+      }
+    }
+  ],
+  "MaxRoi": 2,
+  "withrawalAmount": 0,
+  "plans": [
+    {
+      "planIndex": 1,
+      "totalBusiness": 2500,
+      "Daily": 3,
+      "days": 60,
+      "activationDate": "11/12/2023",
+      "active": true,
+      "_id": {
+        "$oid": "65770f8c3909302f03dec3b2"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572abe843d48a373afc5a92"
+  },
+  "walletAddress": "0xD6bF5Fc00cd8AF106aCF2bC07f0a2eB3874b2181",
+  "referralAddress": "0x9B88c6cc678478cfd70B00F979543c4CF2922043",
+  "directIncome": 0,
+  "totalReferrals": 0,
+  "totalstakes": 3,
+  "totalStakedAmount": 15500,
+  "MaxRoi": 2,
+  "dateRegistered": "08/12/2023",
+  "stakes": [
+    {
+      "stakingIndex": 1,
+      "amount": 500,
+      "date": "05/12/2023",
+      "_id": {
+        "$oid": "6572abf943d48a373afc5a98"
+      }
+    },
+    {
+      "stakingIndex": 2,
+      "amount": 5000,
+      "date": "05/12/2023",
+      "_id": {
+        "$oid": "6572ac0443d48a373afc5a9e"
+      }
+    },
+    {
+      "stakingIndex": 3,
+      "amount": 10000,
+      "date": "05/12/2023",
+      "_id": {
+        "$oid": "6572ac0b43d48a373afc5aa5"
+      }
+    }
+  ],
+  "userId": 3,
+  "__v": 4,
+  "withrawalAmount": 0,
+  "plans": []
+},
+{
+  "_id": {
+    "$oid": "6572ac1d43d48a373afc5aad"
+  },
+  "walletAddress": "0x0a261b1Ac373c3390D11937FD7D1a23EDa10eCe0",
+  "referralAddress": "0x9B88c6cc678478cfd70B00F979543c4CF2922043",
+  "directIncome": 1,
+  "totalReferrals": 1,
+  "totalstakes": 1,
+  "totalStakedAmount": 10000,
+  "MaxRoi": 2,
+  "dateRegistered": "08/12/2023",
+  "stakes": [
+    {
+      "stakingIndex": 1,
+      "amount": 10000,
+      "date": "08/12/2023",
+      "_id": {
+        "$oid": "6572ac2543d48a373afc5ab5"
+      }
+    }
+  ],
+  "userId": 4,
+  "__v": 2,
+  "withrawalAmount": 0,
+  "plans": []
+},
+{
+  "_id": {
+    "$oid": "6572aefb43d48a373afc5ad1"
+  },
+  "walletAddress": "0x9D1d52e9351a3aFF9AdFFa5A3F020E100899d769",
+  "referralAddress": "0xFfe7e55801a997739cE58e302D5e2DeE3b9Bd333",
+  "directIncome": 0,
+  "totalReferrals": 0,
+  "totalstakes": 4,
+  "totalStakedAmount": 12500,
+  "MaxRoi": 2,
+  "dateRegistered": "08/12/2023",
+  "stakes": [
+    {
+      "stakingIndex": 1,
+      "amount": 10000,
+      "date": "08/12/2023",
+      "_id": {
+        "$oid": "6572af0643d48a373afc5ad7"
+      }
+    },
+    {
+      "stakingIndex": 2,
+      "amount": 500,
+      "date": "08/12/2023",
+      "_id": {
+        "$oid": "6572af0c43d48a373afc5add"
+      }
+    },
+    {
+      "stakingIndex": 3,
+      "amount": 1000,
+      "date": "12/12/2023",
+      "_id": {
+        "$oid": "65783552d28ffb0676cd3697"
+      }
+    },
+    {
+      "stakingIndex": 4,
+      "amount": 1000,
+      "date": "12/12/2023",
+      "_id": {
+        "$oid": "65783554d28ffb0676cd369f"
+      }
+    }
+  ],
+  "userId": 5,
+  "__v": 5,
+  "withrawalAmount": 0,
+  "plans": []
+},
+{
+  "_id": {
+    "$oid": "6572afbf43d48a373afc5aec"
+  },
+  "walletAddress": "0xDCA4b8396c34a4861C4CB65dbB8ae5BcF3a31c36",
+  "referralAddress": "0x0a261b1Ac373c3390D11937FD7D1a23EDa10eCe0",
+  "directIncome": 0,
+  "totalReferrals": 0,
+  "totalstakes": 2,
+  "totalStakedAmount": 2000,
+  "MaxRoi": 2,
+  "dateRegistered": "08/12/2023",
+  "stakes": [
+    {
+      "stakingIndex": 1,
+      "amount": 1000,
+      "date": "12/12/2023",
+      "_id": {
+        "$oid": "65783a05d28ffb0676cd36a6"
+      }
+    },
+    {
+      "stakingIndex": 2,
+      "amount": 1000,
+      "date": "13/12/2023",
+      "_id": {
+        "$oid": "6579437e002b21744393d740"
+      }
+    }
+  ],
+  "userId": 6,
+  "__v": 3,
+  "withrawalAmount": 1600,
+  "plans": []
+},
+{
+  "_id": {
+    "$oid": "657965838c2a379753db1687"
+  },
+  "walletAddress": "0x592f1ef21817c90fc8d3A14c4541012904CE6F8a",
+  "referralAddress": "0x9B88c6cc678478cfd70B00F979543c4CF2922043",
+  "directIncome": 0,
+  "totalReferrals": 0,
+  "totalstakes": 0,
+  "totalStakedAmount": 0,
+  "MaxRoi": 2,
+  "withrawalAmount": 0,
+  "dateRegistered": "13/12/2023",
+  "stakes": [],
+  "plans": [],
+  "userId": 7,
+  "__v": 0
+}]
